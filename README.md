@@ -4,4 +4,4 @@ En este Portafolio personal se almacenará mis Proyectos y Prácticas de Data Sc
 ## Autor
 **Rony Ticona**
 
-*[LinkeIn](https://www.linkedin.com/in/ronyticona1/)
+* [LinkeIn](https://www.linkedin.com/in/ronyticona1/)
