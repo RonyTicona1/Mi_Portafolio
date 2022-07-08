@@ -16,10 +16,10 @@ En este notebook se explicarán Análisis de Datos con la librería **Pandas** e
 
 # Librerías:
 - For Data Science
--- Numpy
--- Pandas
--- Matplotlib
--- Seaborn
+- 1. Numpy
+- 2. Pandas
+- 3. Matplotlib
+- 4. Seaborn
 
 # Experiencia:
 Mi experiencia en Python y Data Science viene desarrollandose desde el año 2021.
