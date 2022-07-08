@@ -1,28 +1,34 @@
 # Análisis de Datos con PANDAS
-En este notebook se explicarán Análisis de Datos con la librería **Pandas** en el lenguaje de programación Python.
 
-## Autor
+## Descripción:
+En este notebook se desarrollará Análisis de Datos con la librería **Pandas** sobre la English Premier League (EPL)_2020-2021).
+
+## Objetivos:
+1. Importar archivos csv y manipularlos en Pandas.
+2. Analizar datos reales sobre la Premier League.
+
+### Autor
 **Rony Ticona**
 
 * [LinkeIn](https://www.linkedin.com/in/ronyticona1/)
 * [GitHub](https://ronyticona1.github.io/Mi_Portafolio/)
 
-# Lenguaje de Programación:
+## Lenguaje de Programación:
 - Python
 
-# IDE Recomendada:
+## IDE Recomendada:
 - Jupyter Notebook
 - Jupyter Lab
 
-# Librerías:
+## Librerías:
 - For Data Science
 * 1. Numpy
-2. Pandas
-3. Matplotlib
-4. Seaborn
+* 2. Pandas
+* 3. Matplotlib
+* 4. Seaborn
 
-# Experiencia:
+## Experiencia:
 Mi experiencia en Python y Data Science viene desarrollandose desde el año 2021.
 
-# Contenido:
+## Contenido:
 Encontrarás una serie de bases de datos con una temática variada, donde, se desarrolla el manejo, análisis, limpieza y visualización gráfica de cada DataFrame.
