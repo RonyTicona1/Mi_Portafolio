@@ -10,12 +10,15 @@ En este Portafolio Personal se almacenará mis proyectos y prácticas desarrolla
 ## Lenguaje de Programación:
 - Python
 
-## Entorno de Desarrollo Integrado (IDE):
+## Lenguaje de Marcas de Hipertexto
+- HTML
+
+## Entorno de Desarrollo Integrado (IDE) en Python:
 - Jupyter Notebook
 - Jupyter Lab
 - Spyder
 
-## Librerías:
+## Librerías en Python:
 - For Data Science
 
 ## Experiencia:
