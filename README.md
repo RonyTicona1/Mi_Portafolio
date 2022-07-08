@@ -1,5 +1,5 @@
 # Mi_Portafolio
-En este Portafolio Personal se almacenará mis proyectos y prácticas desarrolladas en diferentes lenguajes de programación.
+En este **Portafolio Personal** se almacenará mis proyectos y prácticas desarrolladas en diferentes lenguajes de programación.
 
 ### Autor
 **Rony Ticona**
