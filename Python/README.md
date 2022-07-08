@@ -1,24 +1,27 @@
 # Mi_Portafolio
-En este Portafolio personal se almacenará mis Proyectos y Prácticas de Data Science con Python.
+En este Portafolio Personal se almacenará mis proyectos y prácticas desarrolladas en Python.
 
-## Autor
+### Autor
 **Rony Ticona**
 
 * [LinkeIn](https://www.linkedin.com/in/ronyticona1/)
 * [GitHub](https://ronyticona1.github.io/Mi_Portafolio/)
 
-# Lenguaje de Programación:
+## Lenguaje de Programación:
 - Python
 
-# IDE Recomendada:
+## Entorno de Desarrollo Integrado (IDE):
 - Jupyter Notebook
 - Jupyter Lab
+- Spyder
 
-# Librerías:
+## Librerías:
 - For Data Science
 
-# Experiencia:
-Mi experiencia en Python y Data Science viene desarrollandose desde el año 2021.
+## Experiencia:
+Mi experiencia en Python y Data Science se extiende desde el año 2021.
 
-# Contenido:
-Encontrarás una serie de bases de datos con una temática variada, donde, se desarrolla el manejo, análisis, limpieza y visualización gráfica de cada DataFrame.
+## Nivel:
+- Básico
+- ...
+
