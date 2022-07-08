@@ -26,9 +26,3 @@ En este notebook se desarrollará Análisis de Datos con la librería **Pandas**
 * 2. Pandas
 * 3. Matplotlib
 * 4. Seaborn
-
-## Experiencia:
-Mi experiencia en Python y Data Science viene desarrollandose desde el año 2021.
-
-## Contenido:
-Encontrarás una serie de bases de datos con una temática variada, donde, se desarrolla el manejo, análisis, limpieza y visualización gráfica de cada DataFrame.
