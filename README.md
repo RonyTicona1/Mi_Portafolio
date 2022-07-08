@@ -1,5 +1,5 @@
 # Mi_Portafolio
-En este Portafolio Personal se almacenará mis proyectos y prácticas desarrolladas en Python.
+En este Portafolio Personal se almacenará mis proyectos y prácticas desarrolladas en diferentes lenguajes de programación.
 
 ### Autor
 **Rony Ticona**
@@ -19,7 +19,7 @@ En este Portafolio Personal se almacenará mis proyectos y prácticas desarrolla
 - For Data Science
 
 ## Experiencia:
-Mi experiencia en Python y Data Science se extiende desde el año 2021.
+- En Python y Data Science desde el año 2021.
 
 ## Nivel:
 - Básico
