@@ -16,13 +16,12 @@ En este notebook se desarrollará Análisis de Datos con la librería **Pandas**
 ## Lenguaje de Programación:
 - Python
 
-## IDE Recomendada:
+## IDE:
 - Jupyter Notebook
-- Jupyter Lab
 
 ## Librerías:
 - For Data Science
-* 1. Numpy
-* 2. Pandas
-* 3. Matplotlib
-* 4. Seaborn
+  - Numpy
+  - Pandas
+  - Matplotlib
+  - Seaborn
