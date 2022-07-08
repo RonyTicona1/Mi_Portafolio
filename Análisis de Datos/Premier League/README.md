@@ -1,5 +1,5 @@
-# Mi_Portafolio
-En este Portafolio personal se almacenará mis Proyectos y Prácticas de Data Science con Python.
+# Análisis de Datos con PANDAS
+En este notebook se explicarán Análisis de Datos con la librería **Pandas** en el lenguaje de programación Python.
 
 ## Autor
 **Rony Ticona**
@@ -16,6 +16,10 @@ En este Portafolio personal se almacenará mis Proyectos y Prácticas de Data Sc
 
 # Librerías:
 - For Data Science
+-- Numpy
+-- Pandas
+-- Matplotlib
+-- Seaborn
 
 # Experiencia:
 Mi experiencia en Python y Data Science viene desarrollandose desde el año 2021.
