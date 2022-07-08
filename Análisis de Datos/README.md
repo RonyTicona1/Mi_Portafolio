@@ -1,24 +1,30 @@
-# Mi_Portafolio
-En este Portafolio personal se almacenará mis Proyectos y Prácticas de Data Science con Python.
+# Análisis de Datos
+El análisis de datos es un proceso que te permitirá conocer e interpretar información con la finalidad de identificar puntos de valor.
 
-## Autor
+## Contenido:
+En esta sección encontrarás una serie de bases de datos con temáticas variadas, donde, se desarrolla el manejo, análisis, limpieza y visualización gráfica de datos.
+
+### Autor
 **Rony Ticona**
 
 * [LinkeIn](https://www.linkedin.com/in/ronyticona1/)
 * [GitHub](https://ronyticona1.github.io/Mi_Portafolio/)
 
-# Lenguaje de Programación:
+## Lenguaje de Programación:
 - Python
 
-# IDE Recomendada:
+## IDE Recomendada:
 - Jupyter Notebook
 - Jupyter Lab
 
-# Librerías:
+## Librerías:
 - For Data Science
-
-# Experiencia:
-Mi experiencia en Python y Data Science viene desarrollandose desde el año 2021.
-
-# Contenido:
-Encontrarás una serie de bases de datos con una temática variada, donde, se desarrolla el manejo, análisis, limpieza y visualización gráfica de cada DataFrame.
+  - Numpy
+  - Matplotlib
+  - Plotly
+  - Pandas
+  - Seaborn
+  - Funpymodeling
+  - Sklearn
+  - Keras
+  - ...
