@@ -16,7 +16,7 @@ En este notebook se explicarán Análisis de Datos con la librería **Pandas** e
 
 # Librerías:
 - For Data Science
-1. Numpy
+** 1. Numpy
 2. Pandas
 3. Matplotlib
 4. Seaborn
