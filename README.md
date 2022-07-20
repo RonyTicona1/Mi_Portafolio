@@ -4,7 +4,7 @@ En este Portafolio Personal se almacenará mis proyectos y prácticas desarrolla
 ### Autor
 **Rony Ticona**
 
-* [LinkeIn](https://www.linkedin.com/in/ronyticona1/)
+* [LinkeIn](https://www.linkedin.com/in/RonyTicona1/)
 * [GitHub](https://ronyticona1.github.io/Mi_Portafolio/)
 
 ## Lenguaje de Programación:
